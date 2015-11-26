@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentTabHost</string>
+    <string name="num1">第一</string>
+    <string name="num2">第二</string>
+    <string name="num3">第三</string>
+    <string name="num4">第四</string>
+    <string name="num5">第五</string>
+</resources>
